@@ -1,0 +1,3 @@
+include ':autostartpermission'
+include ':app'
+rootProject.name = "AutostartPermissions"
